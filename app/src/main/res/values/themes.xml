@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Favfood" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/redlight</item>
+        <item name="fontFamily">@font/dmsans</item>
+    </style>
+
+    <style name="Theme.Favfood" parent="Base.Theme.Favfood" />
+</resources>

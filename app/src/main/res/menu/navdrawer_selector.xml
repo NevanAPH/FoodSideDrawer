@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/makanan_khas"
+        android:title="Makanan Khas"
+        android:icon="@drawable/ic_makanan_khas" />
+    <item
+        android:id="@+id/minuman_khas"
+        android:title="Minuman Khas"
+        android:icon="@drawable/ic_minuman_khas" />
+    <item
+        android:id="@+id/makanan_favorit"
+        android:title="Makanan Favorit"
+        android:icon="@drawable/ic_makanan_favorit" />
+</menu>
